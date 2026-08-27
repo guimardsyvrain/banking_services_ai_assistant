@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment
+.env
+
+# Data
+data/raw/
+data/processed/
+
+# Database
+database/*.db
+
+# ML artifacts
+models/artifacts/
+
+# MLflow
+mlruns/
+
+# ChromaDB
+chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
