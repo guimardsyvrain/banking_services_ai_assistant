@@ -28,3 +28,6 @@ chroma_db/
 
 # VS Code
 .vscode/
+
+# Microsoft Office temporary files
+~$*
